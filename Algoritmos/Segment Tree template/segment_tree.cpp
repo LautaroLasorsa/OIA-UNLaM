@@ -3,7 +3,6 @@
 using namespace std;
 #include <exception>
 #include <iostream>
-#include <bit>
 /**
 * Segment Tree structure
 *
